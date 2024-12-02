@@ -45,12 +45,17 @@ Been around the block a few times:
 
 ### Personal GitHub (@VishalSainani)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalSainani&theme=tokyonight)](https://github.com/VishalSainani)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalSainani&show_icons=true&theme=tokyonight)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSainani&layout=compact&theme=tokyonight)](https://github.com/VishalSainani)
 
 ### Work GitHub (@vsainani)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vsainani&theme=tokyonight)](https://github.com/vsainani)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vsainani&show_icons=true&theme=tokyonight)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsainani&layout=compact&theme=tokyonight)](https://github.com/vsainani)
 
 ## Let's Connect! 🤝
