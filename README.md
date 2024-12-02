@@ -43,6 +43,12 @@ Been around the block a few times:
 
 ## The Fun Stats 📊
 <!-- Drop your GitHub stats here! -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalSainani&theme=tokyonight)](https://github.com/VishalSainani)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalSainani&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSainani&layout=compact&theme=tokyonight)](https://github.com/VishalSainani)
+
 
 ## Let's Connect! 🤝
 
