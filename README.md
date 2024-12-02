@@ -40,23 +40,15 @@ Been around the block a few times:
 - Crafting interfaces that just make sense
 - Making slow things fast
 - Solving tricky problems with elegant solutions
+## GitHub Activity 📊
 
-## The Fun Stats 📊
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalSainani&theme=tokyonight" width="100%" />
 
-### Personal GitHub (@VishalSainani)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalSainani&theme=tokyonight)](https://github.com/VishalSainani)
+### Languages & Tools
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalSainani&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalSainani&theme=tokyonight" width="49%" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalSainani&show_icons=true&theme=tokyonight)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSainani&layout=compact&theme=tokyonight)](https://github.com/VishalSainani)
-
-### Work GitHub (@vsainani)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vsainani&theme=tokyonight)](https://github.com/vsainani)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vsainani&show_icons=true&theme=tokyonight)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsainani&layout=compact&theme=tokyonight)](https://github.com/vsainani)
+### Stats Overview
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishalSainani&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VishalSainani&theme=tokyonight" width="49%" />
 
 ## Let's Connect! 🤝
 
