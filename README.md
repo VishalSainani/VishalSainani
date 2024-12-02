@@ -42,20 +42,20 @@ Been around the block a few times:
 - Solving tricky problems with elegant solutions
 ## GitHub Activity 📊
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalSainani&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsainani&theme=tokyonight" width="100%" />
 
 ### Languages & Tools
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalSainani&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalSainani&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsainani&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsainani&theme=tokyonight" width="49%" />
 
 ### Stats Overview
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishalSainani&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VishalSainani&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vsainani&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vsainani&theme=tokyonight" width="49%" />
 
 ## Let's Connect! 🤝
 
 Got an interesting project? Want to collaborate? Or just chat about tech?
 
 - Find me on LinkedIn: [vishal-sainani](https://www.linkedin.com/in/vishal-sainani)
-- Drop me a line: vishalsainani2000@gmail.com
+- Drop me a line: vsainani2000@gmail.com
 
 ---
 
